@@ -1,0 +1,8 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.wingi.store",
+		"sha256_cert_fingerprints": ["7E:1C:FE:1B:38:71:A2:95:44:A2:61:0D:D4:82:56:53:77:F5:07:5C:A1:32:67:42:95:E4:CC:8C:D8:E2:13:A3"]
+	}
+}]
